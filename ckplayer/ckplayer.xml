@@ -92,7 +92,7 @@
 			4、播放器最小高度
 			这里只是初始化时的设置，最终加载完播放器后显示的效果需要在style.swf/style.xml里设置该参数
 		-->
-		<mylogo>logo.swf</mylogo>
+		<mylogo>null</mylogo>
 		<!--
 		视频加载前显示的logo文件，不使用设置成<mylogo>null</mylogo>
 		-->
